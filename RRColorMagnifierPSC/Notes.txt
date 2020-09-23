@@ -1,0 +1,33 @@
+Desktop Magnifier & Screen Color Picker 
+by Robert Rayment  Mar 2006
+
+Features:-
+
+1.  Magnify 2,4,8,16,32 by clicking + or - buttons
+    or + or - on Numpad & re-show image without moving
+    cursor: NB mouse not clicked.  /*
+2.  Show color change  at cursor hot spot, ie  
+    backcolor of a label.
+3.  Show absolute screen coords at hot spot.
+4.  Move 1 pixel using arrow keys: NB mouse not clicked.
+5.  Save RGB color to Clipboard by pressing. "S"  /*
+6.  Show exact position of cursor by a black/white dot.
+7.  Toggle dot black/white by clicking color label. /*
+8.  Move Mouse Down to move headerless form
+    Magnifier or Color pad.
+9.  Click Pick button to toggle RGB Color maker. /*
+
+10. When Color maker up, clicking on screen sets
+    scrollbars and large colored square.
+11. Click C'Board to save hex to clipboard (Alt B). /*
+12. To save RGB color to the clipboard, after clicking
+    the screen, click large color box on Color maker,
+    to switch focus to form so "S" can be pressed.  /*
+13. Click Pad to toggle Color pad (Alt A). /*
+    Color pad has 5 x 47773 colors (top buttons on pad) 
+14. Click Icons to toggle desktop icons (Alt I). /*
+15. Click View (Alt V) to show Clipboard (Alt F4 can close). /*
+16. Valid for standard 96 DPI & 120 DPI.
+17. Click X (red) or Esc to Quit. /*
+
+/* magnifier has to have focus.
